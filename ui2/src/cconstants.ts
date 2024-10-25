@@ -29,7 +29,7 @@ export const OCR_LANG: OCRLangType = {
   por: "Português",
   ron: "Română",
   san: "संस्कृत",
-  spa: "Español"
+  spa: "Español",
   ara: "Arabic"
 
 }
