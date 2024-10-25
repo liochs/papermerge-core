@@ -30,6 +30,7 @@ export const OCR_LANG: OCRLangType = {
   ron: "Română",
   san: "संस्कृत",
   spa: "Español"
+  ara: "Arabic"
 }
 
 export const HIDDEN = {
