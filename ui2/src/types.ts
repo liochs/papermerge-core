@@ -265,6 +265,7 @@ export type OCRCode =
   | "ron"
   | "san"
   | "spa"
+  | "ara" // Arabic
 
 export type PageType = {
   id: string
